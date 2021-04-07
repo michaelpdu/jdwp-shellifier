@@ -9,5 +9,5 @@ python -m SimpleHTTPServer 8090
 
 执行下面的命令
 ```bash
-python test.py -t 100.88.140.69:8000
+python test.py -t IP:port
 ```
